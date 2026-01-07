@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-electron
+release
+*.exe
+*.dmg
+*.zip
+.DS_Store
+.env
+.idea
+.vscode
+*.log
